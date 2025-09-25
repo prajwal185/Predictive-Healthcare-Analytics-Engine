@@ -1,0 +1,5 @@
+{
+  "name": "Predictive Healthcare Analytics Engine",
+  "description": "A comprehensive healthcare analytics platform that predicts patient outcomes and optimizes resource allocation using multi-modal data and fairness-aware AI.",
+  "requestFramePermissions": []
+}
